@@ -1,0 +1,78 @@
+15:01:16:113 [Information Program] Boiling, You're just a miserable copy of me!
+15:01:16:169 [Fatal Program] No, I'm the upgrade!
+15:02:27:945 [Information Program] Boiling, You're just a miserable copy of me!
+15:02:28:000 [Fatal Program] No, I'm the upgrade!
+15:10:45:180 [Information Program] Boiling, You're just a miserable copy of me!
+15:10:45:257 [Fatal Program] No, I'm the upgrade!
+15:26:30:411 [Information Program] Boiling, You're just a miserable copy of me!
+15:26:30:442 [Fatal Program] No, I'm the upgrade!
+15:26:57:777 [Information Program] Boiling, You're just a miserable copy of me!
+15:26:57:854 [Fatal Program] No, I'm the upgrade!
+15:27:56:609 [Information Program] Boiling, You're just a miserable copy of me!
+15:27:56:656 [Fatal Program] No, I'm the upgrade!
+15:28:19:191 [Information Program] Boiling, You're just a miserable copy of me!
+15:28:19:234 [Fatal Program] No, I'm the upgrade!
+15:41:02:214 [Information Program] Boiling, You're just a miserable copy of me!
+15:41:02:266 [Fatal Program] No, I'm the upgrade!
+15:46:11:562 [Information Program] Boiling, You're just a miserable copy of me!
+15:46:11:615 [Fatal Program] No, I'm the upgrade!
+16:08:18:893 [Information Program] Boiling, You're just a miserable copy of me!
+16:08:18:954 [Fatal Program] No, I'm the upgrade!
+16:13:17:102 [Information Program] Boiling, You're just a miserable copy of me!
+16:13:17:179 [Fatal Program] No, I'm the upgrade!
+16:13:38:502 [Information Program] Boiling, You're just a miserable copy of me!
+16:13:38:532 [Fatal Program] No, I'm the upgrade!
+16:14:10:850 [Information Program] Boiling, You're just a miserable copy of me!
+16:14:10:879 [Fatal Program] No, I'm the upgrade!
+16:16:00:181 [Information Program] Boiling, You're just a miserable copy of me!
+16:16:00:213 [Fatal Program] No, I'm the upgrade!
+16:21:10:726 [Information Program] Boiling, You're just a miserable copy of me!
+16:21:10:830 [Fatal Program] No, I'm the upgrade!
+16:26:32:808 [Information Program] Boiling, You're just a miserable copy of me!
+16:26:32:842 [Fatal Program] No, I'm the upgrade!
+16:27:05:581 [Information Program] Boiling, You're just a miserable copy of me!
+16:27:05:622 [Fatal Program] No, I'm the upgrade!
+16:35:06:225 [Information Program] Boiling, You're just a miserable copy of me!
+16:35:06:269 [Fatal Program] No, I'm the upgrade!
+16:37:01:295 [Information Program] Boiling, You're just a miserable copy of me!
+16:37:01:338 [Fatal Program] No, I'm the upgrade!
+16:38:15:860 [Information Program] Boiling, You're just a miserable copy of me!
+16:38:15:915 [Fatal Program] No, I'm the upgrade!
+16:44:43:172 [Information Program] Boiling, You're just a miserable copy of me!
+16:44:43:208 [Fatal Program] No, I'm the upgrade!
+16:55:46:276 [Information Program] Boiling, You're just a miserable copy of me!
+16:55:46:305 [Fatal Program] No, I'm the upgrade!
+16:56:19:730 [Information Program] Boiling, You're just a miserable copy of me!
+16:56:19:774 [Fatal Program] No, I'm the upgrade!
+16:59:25:309 [Information Program] Boiling, You're just a miserable copy of me!
+16:59:25:396 [Fatal Program] No, I'm the upgrade!
+17:05:57:482 [Information Program] Boiling, You're just a miserable copy of me!
+17:05:57:509 [Fatal Program] No, I'm the upgrade!
+17:21:44:072 [Information Program] Boiling, You're just a miserable copy of me!
+17:21:44:123 [Fatal Program] No, I'm the upgrade!
+17:54:25:536 [Information Program] Boiling, You're just a miserable copy of me!
+17:54:25:577 [Fatal Program] No, I'm the upgrade!
+19:37:29:954 [Information Program] Boiling, You're just a miserable copy of me!
+19:37:29:988 [Fatal Program] No, I'm the upgrade!
+19:40:13:076 [Information Program] Boiling, You're just a miserable copy of me!
+19:40:13:128 [Fatal Program] No, I'm the upgrade!
+19:41:46:977 [Information Program] Boiling, You're just a miserable copy of me!
+19:41:47:015 [Fatal Program] No, I'm the upgrade!
+19:43:31:868 [Information Program] Boiling, You're just a miserable copy of me!
+19:43:31:904 [Fatal Program] No, I'm the upgrade!
+21:55:55:249 [Information Program] Boiling, You're just a miserable copy of me!
+21:55:55:366 [Fatal Program] No, I'm the upgrade!
+21:56:21:755 [Information Program] Boiling, You're just a miserable copy of me!
+21:56:21:791 [Fatal Program] No, I'm the upgrade!
+21:56:49:329 [Information Program] Boiling, You're just a miserable copy of me!
+21:56:49:368 [Fatal Program] No, I'm the upgrade!
+22:08:58:935 [Information Program] Boiling, You're just a miserable copy of me!
+22:08:58:963 [Fatal Program] No, I'm the upgrade!
+22:37:31:826 [Information Program] Boiling, You're just a miserable copy of me!
+22:37:31:852 [Fatal Program] No, I'm the upgrade!
+22:40:02:229 [Information Program] Boiling, You're just a miserable copy of me!
+22:40:02:261 [Fatal Program] No, I'm the upgrade!
+22:43:16:359 [Information Program] Boiling, You're just a miserable copy of me!
+22:43:16:392 [Fatal Program] No, I'm the upgrade!
+22:48:18:795 [Information Program] Boiling, You're just a miserable copy of me!
+22:48:18:829 [Fatal Program] No, I'm the upgrade!
