@@ -64,8 +64,8 @@ void RunBoiling()
     logger.LogInformation("Boiling, You're just a miserable copy of me!");
     logger.LogCritical("No, I'm the upgrade!");
 
-    const double r = 0.085; //радиус
-    const double h = 0.14; //высота(z)
+    const double r = 0.07; //радиус
+    const double h = 0.08; //высота(z)
 
     var water = new RectArea(
         new Rectangle(
@@ -80,35 +80,47 @@ void RunBoiling()
         defaultMaterialIdId: 0
     );
 
-    const int nestingDegree = 32;
+    const int nestingDegree = 1;
 
     var grid = new GridBuilder()
         .SetXAxis(new AxisSplitParameter(
             [0, r],
-            new UniformSplitter(680)
+            new UniformSplitter(70 * nestingDegree)
         ))
         .SetYAxis(new AxisSplitParameter(
             [0, h],
-            new UniformSplitter(1120)
+            new UniformSplitter(80 * nestingDegree)
         ))
         .SetMaterialSetterFactory(areas)
         .Build();
 
 
     //картинка направление скорости
-    /*var velocityParameter = new ConvectionVelocity(grid.Nodes, 0.001);
+    /*var velocityParameter = new ConvectionVelocity(grid.Nodes, 0.1);
     for (var i = 0; i < grid.Nodes.TotalPoints; i++)
     {
         var velocity = velocityParameter.Get(grid.Nodes[i]);
         Console.WriteLine($"{grid.Nodes[i].X:F5} {grid.Nodes[i].Y:F5} {velocity.X:E5} {velocity.Y:E5}");
     }*/
 
+
+    /*var filePath = $@"C:\Users\dimap\RiderProjects\BoilingTrue\View\View\velocity.txt";
+
+    var velocityParameter2 = new ConvectionVelocity(grid.Nodes, 0.001);
+    using (var writer = new StreamWriter(filePath))
+    {
+        for (var i = 0; i < grid.Nodes.TotalPoints; i++)
+        {
+            var velocity = velocityParameter2.Get(grid.Nodes[i]);
+            writer.WriteLine($"{grid.Nodes[i].X:F5} {grid.Nodes[i].Y:F5} {velocity.X:E5} {velocity.Y:E5}");
+        }
+    }*/
+
     var materialProvider = new BoilingMaterialProvider([
         new BoilingMaterial(0.6, 999.97, 4200d)
     ]);
 
-    int timeSpl = 600;
-    var velocitytxt = 0.001;
+    int timeSpl = 1000;
 
     var solver = provider.GetRequiredService<BoilingDirectSolver>();
     solver.Allocate(grid);
@@ -118,9 +130,8 @@ void RunBoiling()
         .ToArray());
 
     var femSolution = solver.Solve(Vector.Create(grid.Nodes.TotalPoints, 25));
-    
-    
-    
+
+
     /*var filePath = $@"C:\Users\dimap\RiderProjects\Boiling\View\View\velocity{velocitytxt}\data{timeSpl}.txt";
 
     using (var writer = new StreamWriter(filePath))

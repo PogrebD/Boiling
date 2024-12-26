@@ -76,3 +76,196 @@
 22:43:16:392 [Fatal Program] No, I'm the upgrade!
 22:48:18:795 [Information Program] Boiling, You're just a miserable copy of me!
 22:48:18:829 [Fatal Program] No, I'm the upgrade!
+14:28:44:890 [Information Program] Boiling, You're just a miserable copy of me!
+14:28:44:992 [Fatal Program] No, I'm the upgrade!
+14:36:14:148 [Information Program] Boiling, You're just a miserable copy of me!
+14:36:14:179 [Fatal Program] No, I'm the upgrade!
+14:36:43:333 [Information Program] Boiling, You're just a miserable copy of me!
+14:36:43:364 [Fatal Program] No, I'm the upgrade!
+01:13:40:663 [Information Program] Boiling, You're just a miserable copy of me!
+01:13:40:711 [Fatal Program] No, I'm the upgrade!
+01:14:02:604 [Information Program] Boiling, You're just a miserable copy of me!
+01:14:02:649 [Fatal Program] No, I'm the upgrade!
+01:14:31:463 [Information Program] Boiling, You're just a miserable copy of me!
+01:14:31:506 [Fatal Program] No, I'm the upgrade!
+01:15:29:701 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 8.986440E-001, expected: 1.000000E-015. Max iterations: 1000
+01:16:29:206 [Information Program] Boiling, You're just a miserable copy of me!
+01:16:29:267 [Fatal Program] No, I'm the upgrade!
+01:17:04:906 [Information Program] Boiling, You're just a miserable copy of me!
+01:17:04:978 [Fatal Program] No, I'm the upgrade!
+01:18:26:458 [Information Program] Boiling, You're just a miserable copy of me!
+01:18:26:490 [Fatal Program] No, I'm the upgrade!
+01:18:38:929 [Information Program] Boiling, You're just a miserable copy of me!
+01:18:38:960 [Fatal Program] No, I'm the upgrade!
+01:18:39:864 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.637505E-001, expected: 1.000000E-015. Max iterations: 1000
+01:18:40:390 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 6.919384E-002, expected: 1.000000E-015. Max iterations: 1000
+01:18:40:897 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 8.179976E-002, expected: 1.000000E-015. Max iterations: 1000
+01:18:41:396 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 7.774932E-002, expected: 1.000000E-015. Max iterations: 1000
+01:18:50:664 [Information Program] Boiling, You're just a miserable copy of me!
+01:18:50:698 [Fatal Program] No, I'm the upgrade!
+01:34:19:435 [Information Program] Boiling, You're just a miserable copy of me!
+01:34:19:466 [Fatal Program] No, I'm the upgrade!
+01:35:52:799 [Information Program] Boiling, You're just a miserable copy of me!
+01:35:52:851 [Fatal Program] No, I'm the upgrade!
+01:47:25:465 [Information Program] Boiling, You're just a miserable copy of me!
+01:47:25:496 [Fatal Program] No, I'm the upgrade!
+01:47:26:573 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.258028E-007, expected: 1.000000E-015. Max iterations: 1000
+01:47:27:317 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.682071E-008, expected: 1.000000E-015. Max iterations: 1000
+01:47:27:857 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.437151E-008, expected: 1.000000E-015. Max iterations: 1000
+01:47:28:357 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.893570E-008, expected: 1.000000E-015. Max iterations: 1000
+01:47:28:847 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.947608E-008, expected: 1.000000E-015. Max iterations: 1000
+01:47:29:389 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.954007E-008, expected: 1.000000E-015. Max iterations: 1000
+01:47:29:861 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.955145E-008, expected: 1.000000E-015. Max iterations: 1000
+01:47:30:366 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.955719E-008, expected: 1.000000E-015. Max iterations: 1000
+01:47:30:863 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.956237E-008, expected: 1.000000E-015. Max iterations: 1000
+01:47:31:485 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.956757E-008, expected: 1.000000E-015. Max iterations: 1000
+01:49:17:826 [Information Program] Boiling, You're just a miserable copy of me!
+01:49:17:883 [Fatal Program] No, I'm the upgrade!
+01:52:04:342 [Information Program] Boiling, You're just a miserable copy of me!
+01:52:04:388 [Fatal Program] No, I'm the upgrade!
+01:54:01:881 [Information Program] Boiling, You're just a miserable copy of me!
+01:54:02:039 [Fatal Program] No, I'm the upgrade!
+01:55:14:901 [Information Program] Boiling, You're just a miserable copy of me!
+01:55:14:965 [Fatal Program] No, I'm the upgrade!
+02:07:36:866 [Information Program] Boiling, You're just a miserable copy of me!
+02:07:36:902 [Fatal Program] No, I'm the upgrade!
+02:07:37:848 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.258028E-007, expected: 1.000000E-015. Max iterations: 1000
+02:07:38:390 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.682071E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:38:874 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.437151E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:39:412 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.893570E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:39:890 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.947608E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:40:390 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.954007E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:40:885 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.955145E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:41:387 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.955719E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:41:885 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.956237E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:42:378 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.956757E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:42:914 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.957291E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:43:453 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.957838E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:43:995 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.958394E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:44:777 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.958959E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:45:400 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.959540E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:45:910 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.960132E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:46:438 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.960737E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:46:923 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.961360E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:47:454 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.961984E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:47:949 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.962629E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:48:495 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.963286E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:48:967 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.963955E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:49:522 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.964641E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:50:039 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.965336E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:50:573 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.966049E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:51:062 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.966774E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:51:572 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.967512E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:52:082 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.968265E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:52:606 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.969035E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:53:146 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.969818E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:53:767 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.970617E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:54:290 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.971429E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:54:789 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.972263E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:55:311 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.973107E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:55:838 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.973966E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:56:359 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.974846E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:56:881 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.975740E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:57:460 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.976651E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:57:952 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.977578E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:58:504 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.978519E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:59:014 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.979480E-008, expected: 1.000000E-015. Max iterations: 1000
+02:07:59:531 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.980459E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:00:009 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.981454E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:00:505 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.982465E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:00:974 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.983495E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:01:495 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.984545E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:01:983 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.985609E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:02:472 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.986697E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:02:990 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.987797E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:03:510 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.988917E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:03:982 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.990057E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:04:465 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.991216E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:04:939 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.992392E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:05:418 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.993588E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:05:883 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.994804E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:06:348 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.996040E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:06:808 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.997294E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:07:284 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.998567E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:07:751 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.999861E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:08:221 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.001173E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:08:677 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.002508E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:09:156 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.003859E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:09:627 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.005232E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:10:119 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.006626E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:10:609 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.008039E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:11:099 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.009470E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:11:588 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.010924E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:12:080 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.012400E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:12:570 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.013894E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:13:051 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.015408E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:13:543 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.016947E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:14:012 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.018500E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:14:511 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.020078E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:14:994 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.021677E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:15:486 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.023294E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:15:958 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.024935E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:16:455 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.026590E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:16:956 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.028274E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:17:475 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.029973E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:17:964 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.031696E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:18:443 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.033436E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:18:918 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.035198E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:19:421 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.036980E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:19:902 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.038785E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:20:404 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.040609E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:20:893 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.042451E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:21:429 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.044314E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:22:190 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.046201E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:22:847 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.048103E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:23:427 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.050028E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:23:960 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.051972E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:24:474 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.053936E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:24:979 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.055916E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:25:500 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.057919E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:26:059 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.059940E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:26:568 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.061982E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:27:094 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.064043E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:27:624 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.066122E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:28:144 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.068215E-008, expected: 1.000000E-015. Max iterations: 1000
+02:08:28:727 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.070331E-008, expected: 1.000000E-015. Max iterations: 1000
+02:10:16:663 [Information Program] Boiling, You're just a miserable copy of me!
+02:10:16:721 [Fatal Program] No, I'm the upgrade!
+02:10:17:674 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.431870E-004, expected: 1.000000E-015. Max iterations: 1000
+02:10:18:167 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 2.478381E-004, expected: 1.000000E-015. Max iterations: 1000
+02:10:18:720 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.438440E-003, expected: 1.000000E-015. Max iterations: 1000
+02:10:19:212 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.280791E-004, expected: 1.000000E-015. Max iterations: 1000
+02:10:19:697 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 7.368856E-006, expected: 1.000000E-015. Max iterations: 1000
+02:10:20:183 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.089584E-005, expected: 1.000000E-015. Max iterations: 1000
+02:10:20:687 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.464480E-005, expected: 1.000000E-015. Max iterations: 1000
+02:10:21:184 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.545802E-005, expected: 1.000000E-015. Max iterations: 1000
+02:10:21:685 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.563645E-005, expected: 1.000000E-015. Max iterations: 1000
+02:10:22:183 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.567569E-005, expected: 1.000000E-015. Max iterations: 1000
+02:10:22:712 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.568433E-005, expected: 1.000000E-015. Max iterations: 1000
+02:10:23:209 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.568623E-005, expected: 1.000000E-015. Max iterations: 1000
+02:10:23:674 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.568665E-005, expected: 1.000000E-015. Max iterations: 1000
+02:10:24:146 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.568675E-005, expected: 1.000000E-015. Max iterations: 1000
+02:10:24:603 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.568676E-005, expected: 1.000000E-015. Max iterations: 1000
+02:10:25:073 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.568677E-005, expected: 1.000000E-015. Max iterations: 1000
+02:10:25:550 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.568676E-005, expected: 1.000000E-015. Max iterations: 1000
+02:10:26:016 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.568677E-005, expected: 1.000000E-015. Max iterations: 1000
+02:10:26:480 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.568676E-005, expected: 1.000000E-015. Max iterations: 1000
+02:10:26:988 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 1.568676E-005, expected: 1.000000E-015. Max iterations: 1000
+02:10:47:365 [Information Program] Boiling, You're just a miserable copy of me!
+02:10:47:393 [Fatal Program] No, I'm the upgrade!
+02:10:48:322 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 6.091236E-005, expected: 1.000000E-015. Max iterations: 1000
+02:10:48:851 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 3.108498E-005, expected: 1.000000E-015. Max iterations: 1000
+02:10:49:427 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 3.183515E-005, expected: 1.000000E-015. Max iterations: 1000
+02:10:49:945 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 3.183544E-005, expected: 1.000000E-015. Max iterations: 1000
+02:11:01:880 [Information Program] Boiling, You're just a miserable copy of me!
+02:11:01:908 [Fatal Program] No, I'm the upgrade!
+02:11:02:860 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 6.546890E-001, expected: 1.000000E-015. Max iterations: 1000
+02:11:03:600 [Warning SharpMath.EquationsSystem.Solver.LocalOptimalScheme] LOS run out of iterations. residual: 3.439170E-001, expected: 1.000000E-015. Max iterations: 1000
+02:11:52:533 [Information Program] Boiling, You're just a miserable copy of me!
+02:11:52:558 [Fatal Program] No, I'm the upgrade!
+02:12:33:973 [Information Program] Boiling, You're just a miserable copy of me!
+02:12:34:004 [Fatal Program] No, I'm the upgrade!
+02:13:09:508 [Information Program] Boiling, You're just a miserable copy of me!
+02:13:09:536 [Fatal Program] No, I'm the upgrade!
+02:21:39:067 [Information Program] Boiling, You're just a miserable copy of me!
+02:21:39:092 [Fatal Program] No, I'm the upgrade!

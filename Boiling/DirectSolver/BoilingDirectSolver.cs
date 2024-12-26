@@ -81,10 +81,10 @@ public class BoilingDirectSolver : IAllocationRequired<Grid<Point, Element>>, IA
             if (_currentTimeLayer > 1) 
                 _context.TimeSolutions[_currentTimeLayer - 2] = null;
 
-            int[] TimeSloy = [1, 10, 50, 100, 300, 600];
+            int[] TimeSloy = [1, 10, 50, 100, 250, 500, 1000];
             
-            const double r = 0.085; //радиус
-            const double h = 0.14; //высота(z)
+            const double r = 0.07; //радиус
+            const double h = 0.08; //высота(z)
             var water = new RectArea(
                 new Rectangle(
                     0, 0,
@@ -100,19 +100,18 @@ public class BoilingDirectSolver : IAllocationRequired<Grid<Point, Element>>, IA
             var outputGrid = new GridBuilder()
                 .SetXAxis(new AxisSplitParameter(
                     [0, r],
-                    new UniformSplitter(85)
+                    new UniformSplitter(70)
                 ))
                 .SetYAxis(new AxisSplitParameter(
                     [0, h],
-                    new UniformSplitter(140)
+                    new UniformSplitter(80)
                 ))
                 .SetMaterialSetterFactory(areas)
                 .Build();
 
             if (TimeSloy.Contains((int)CurrentTime))
             {
-                var filePath = $@"C:\Users\dimap\RiderProjects\Boiling\View\View\velocity0.001\data{(int)CurrentTime}.txt";
-            
+                var filePath = $@"C:\Users\dimap\RiderProjects\BoilingTrue\View\View\velocity0,01\data{(int)CurrentTime}.txt";
                 using (var writer = new StreamWriter(filePath))
                 { 
                     for (var i = 0; i < outputGrid.Nodes.TotalPoints; i++)

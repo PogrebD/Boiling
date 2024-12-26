@@ -26,8 +26,8 @@ public class CylinderSecondBoundaryApplier : ISecondBoundaryApplier<SparseMatrix
         var indexes = element.GetBoundNodeIndexes(condition.Bound, stackalloc int[2]);
 
         var massMatrix1D = condition.Bound is Bound.Left or Bound.Right ? 
-            CylinderTemplateMatrices.MassR1D(_context.Grid.Nodes[element.NodeIndexes[0]].R(), element.Length) : 
-            CylinderTemplateMatrices.MassZ1D(element.Width);
+             CylinderTemplateMatrices.MassZ1D(element.Width) : 
+             CylinderTemplateMatrices.MassR1D(_context.Grid.Nodes[element.NodeIndexes[0]].R(), element.Length);
 
         var conditionImpact = LinAl.Multiply(massMatrix1D, condition.Thetta, stackalloc double[2]);
         var localVector = new StackLocalVector(conditionImpact, new StackIndexPermutation(indexes));

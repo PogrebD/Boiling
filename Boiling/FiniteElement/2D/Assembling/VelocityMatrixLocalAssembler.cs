@@ -59,15 +59,15 @@ public class VelocityMatrixLocalAssembler : IMatrixStackLocalAssembler<Element>
 	    {
 		    for (var j = 0; j < element.NodeIndexes.Length; j++)
 		    {
-			    matrix[i, j] = -material.Cp * material.Rho * _doubleIntegration.Integrate(rInterval, zInterval,
+			    matrix[i, j] = material.Cp * material.Rho * _doubleIntegration.Integrate(rInterval, zInterval,
 				    (r, z) =>
 				    {
 					    point.X = r;
 					    point.Y = z;
 					    var velocity = _velocity.Get(point);
-					    return (velocity.R() * derivativeByRFunctions[i](z) +
-					            velocity.Z() * derivativeByZFunctions[i](r)) *
-					           basisFunctions[j].Evaluate(point) * r;
+					    return (velocity.R() * derivativeByRFunctions[j](z) +
+					            velocity.Z() * derivativeByZFunctions[j](r)) *
+					           basisFunctions[i].Evaluate(point) * r;
 				    });
 		    }
 	    }
